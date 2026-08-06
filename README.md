@@ -3,6 +3,7 @@ Engineering notes — things I keep re-explaining, written down once.
 
 ## Further reading
 
+- [Node.js Watchdog: Polling a Metrics API for Staleness and Threshold Breaches](posts/node-js-watchdog-polling-a-metrics-api-for-staleness-and-threshold-breac.md)
 - [Console Files or Hosted Logs? A Startup Guide for Node.js Express Apps](posts/console-files-or-hosted-logs-a-startup-guide-for-node-js-express-apps.md)
 - [Feature flag kill switch plus health monitoring for a small Node.js SaaS](posts/feature-flag-kill-switch-plus-health-monitoring-for-a-small-node-js-saas.md)
 - [App Health Dashboard API for a Small Node.js Startup: Metrics Endpoints, EU and US Hosting](posts/app-health-dashboard-api-for-a-small-node-js-startup-metrics-endpoints-e.md)
